@@ -1,0 +1,20 @@
+{
+  "name": "kefir-cron",
+  "version": "1.0.0",
+  "description": "Cron Stream in Kefir",
+  "main": "kefir-cron.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iofjuupasli/kefir-cron.git"
+  },
+  "author": "Valery Tretyak <iofjuupasli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iofjuupasli/kefir-cron/issues"
+  },
+  "homepage": "https://github.com/iofjuupasli/kefir-cron#readme",
+  "dependencies": {
+    "cron": "1",
+    "kefir": "2 - 3"
+  }
+}
