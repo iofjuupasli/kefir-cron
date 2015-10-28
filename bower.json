@@ -1,0 +1,27 @@
+{
+  "name": "kefir-cron",
+  "description": "Cron Stream in Kefir",
+  "main": "kefir-cron.js",
+  "authors": [
+    "Valery Tretyak <iofjuupasli@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "kefir",
+    "cron",
+    "stream"
+  ],
+  "homepage": "https://github.com/iofjuupasli/kefir-cron",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
